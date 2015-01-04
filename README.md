@@ -13,7 +13,8 @@ scripts to check RSA server status;
 3.initiate the RSA tocken pin password
   I initiate the pin manually
 
-4.test it use /usr/bin/radtest
+4.test it use radtest
+
   /usr/bin/radtest <username> <pin>`/usr/local/stocken/bin/stoken`<rsa_server_ip> 0 <radius_password> <group> <source_ip>
 
 5.use the python script to check RSA status 
