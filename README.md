@@ -15,7 +15,7 @@ scripts to check RSA server status;
 
 4.test it use radtest
 
-  `/usr/bin/radtest \<username\> \<pin\>\`/usr/local/stocken/bin/stoken\`\<rsa_server_ip\> 0 \<radius_password\> \<group\> \<source_ip\>`
+  /usr/bin/radtest \<username\> \<pin\>\`/usr/local/stocken/bin/stoken\`\<rsa_server_ip\> 0 \<radius_password\> \<group\> \<source_ip\>
 
 5.use the python script to check RSA status 
   /usr/bin/python rsa_monitor.py 
